@@ -1,0 +1,21 @@
+CypherPDF is a PDF reader built for one reason: to open a PDF, let you read it, and get out of the way.
+
+Most free PDF apps come with a sign-in screen, a home-screen icon nobody asked for, and a background process quietly reporting back to someone. CypherPDF doesn't have any of that. It has no launcher icon and won't show up in your app drawer — it only opens when you choose a PDF to open with it.
+
+What it does:
+
+* Continuous scrolling through pages, like a real document
+* Pinch to zoom, and drag around while zoomed in without needing to zoom back out first
+* Tap anywhere to hide the top bar and read without distractions
+* Matches your system's light or dark theme automatically
+* Jump straight to a page number instead of scrolling to find it
+* Opens password-protected PDFs
+* Share the open PDF back out to another app
+
+What it doesn't do, on purpose:
+
+* No accounts, no cloud sync, no analytics, no ads
+* No internet permission requested at all
+* No editing, annotating, or form-filling — this reads PDFs, it doesn't edit them
+
+Source code is fully open under the GPL-3.0 license.

@@ -1,0 +1,9 @@
+<resources>
+    <color name="cyph_bg_dark">#0D0D0D</color>
+    <color name="cyph_bg_light">#FAFAFA</color>
+    <color name="cyph_accent">#3DDC84</color>
+    <color name="cyph_surface_light">#FFFFFF</color>
+    <color name="cyph_surface_dark">#161616</color>
+    <color name="cyph_text_light">#111111</color>
+    <color name="cyph_text_dark">#EDEDED</color>
+</resources>
